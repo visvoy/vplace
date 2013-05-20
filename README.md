@@ -1,0 +1,4 @@
+vplace
+======
+
+Native JavaScript template
